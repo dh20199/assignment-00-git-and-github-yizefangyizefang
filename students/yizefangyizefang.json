@@ -1,0 +1,14 @@
+{
+  "firstName": "Zefang",
+  "lastName": "Yi",
+  "nickName": "Tony",
+  "privateName": false,
+  "picture": "yizefangyizefang.jpg",
+  "privatePicture": false,
+  "email": "zefang.yi@mail.utronto.ca",
+  "privateEmail": false,
+  "github": "yizefangyizefang",
+  "privateGithub": false,
+  "superpower" : "herniated discs",
+  "academicinterests": "Modernity"
+}
