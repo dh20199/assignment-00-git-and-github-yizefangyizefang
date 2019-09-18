@@ -28,9 +28,11 @@ gitConfig(function (err, config) {
   console.log(config);
   if (config.user.name) { name = config.user.name; }
   if (config.user.email) { email = config.user.email; }
-  if (config.user.github) { githubid = config.user.github; }
+  if (config.github.user) { githubid = config.user.github; }
 
 });
+
+console.log("GTHUB USER: " + githubid)
 
 // let f = function () {
 //   return console.log('hello');
